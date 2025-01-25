@@ -1,0 +1,7 @@
+{
+    "name": "S5M",
+    "short_name": "S5M",
+    "display": "portrait",
+    "start_url": "/index.html",
+    "orientation": "portrait"
+}
